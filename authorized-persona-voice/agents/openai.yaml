@@ -1,0 +1,4 @@
+interface:
+  display_name: "Authorized Persona Voice"
+  short_description: "Build consent-based voice/persona packages"
+  default_prompt: "Help me build an authorized virtual persona and voice workflow from my permitted materials."
